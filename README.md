@@ -1,9 +1,15 @@
 # code-sniffer
 
-This is our first project!
+## The Big Idea
+Create a program that is capable of parsing large text files of web pages to sniff out malicious code.
 
-I am king!
-SEcond
+This will be done by using grammar checks and dictionaries to narrow in on obfuscated code that is often nonsensical to hide its nature.
 
-He he he.
-I'm making a change at the same time.
+## Concepts
+* Bring large text into a scannable format
+* Look for common programming lexicons
+* Eliminate safe text from the search
+* Flag potential stings as nonsensical
+* Teach to recognize programming lexicons??
+* Natural language processing??
+* things to look for: file name and contents of file
